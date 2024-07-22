@@ -1,0 +1,10 @@
+.calendar>.days-grid>.day.selected {
+                background-color: var(--primary)!important;
+                color: #fff
+}
+
+
+.calendar>.days-grid>.day:hover{
+background-color: var(--primary)!important;
+color: #fff
+}
